@@ -1,0 +1,12 @@
+<html>
+ <head>
+ </head>
+ <body>
+ 	<table>
+        <tr>
+            <td><label>Name</label></td>
+            <td><input type="text"></td>
+        </tr>
+    </table>
+ </body>
+ </html>
